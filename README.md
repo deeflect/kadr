@@ -1,44 +1,47 @@
-# Kadr: screenshots and screen recording for Mac
+<p align="center"><a href="https://getkadr.app"><img src="assets/icon.png" alt="Kadr icon" width="120"></a></p>
+<h1 align="center">Kadr</h1>
+<p align="center"><strong>Screenshots and screen recording for Mac</strong></p>
+<p align="center"><a href="https://getkadr.app">Website</a> · <a href="https://api.getkadr.app/buy">Buy</a> · <a href="https://api.getkadr.app/download/latest/mac">Download for Mac</a> · <a href="https://github.com/deeflect/kadr/issues/new?template=bug_report.yml">Report a bug</a> · <a href="https://github.com/deeflect/kadr/issues/new?template=feature_request.yml">Request a feature</a></p>
+<p align="center"><img src="https://img.shields.io/badge/platform-macOS%2013%2B-0A84FF?style=flat-square" alt="platform: macOS 13+"> <img src="https://img.shields.io/badge/price-%249.99%20once-0A84FF?style=flat-square" alt="price: $9.99 once"></p>
+<p align="center"><img src="assets/hero.gif" alt="Kadr capturing an area and recording the screen" width="100%"></p>
 
-Kadr is a native macOS menu-bar app for people who take screenshots, record the screen and mark them up. It runs on Apple silicon Macs with macOS 13 or later and costs $9.99, charged once. Site: [getkadr.app](https://getkadr.app).
+Kadr is a native macOS menu-bar app for screenshots, screen recording and markup. It runs on Apple silicon Macs with macOS 13 or later and costs $9.99, paid once.
 
-This repository has no source code. It is the public page for Kadr, and bug reports and feature requests go in its Issues tab.
+## Features
 
-## What it does
+### Four capture modes
+Capture an area, a window or the full screen with one shortcut. Scrolling capture is included too.
 
-- Kadr captures an area, a window or the full screen, and it also does scrolling capture.
-- You record the screen and stop the recording from the menu bar.
-- Recordings come out as GIF or video.
-- Markup tools add arrows, shapes, text and blur to a capture.
-- Once you have a capture, you can copy it, drag it out or pin it.
-- Capture history lets you go back to earlier captures.
-- OCR and cutout tools are built in.
+### Screen recording
+Record the screen and stop from the menu bar. Output is GIF or video.
 
-## Requirements
+### Markup tools
+Mark up a capture with arrows, shapes, text and blur.
 
-Kadr needs macOS 13 or later and a Mac with Apple silicon.
+### Copy, drag or pin
+Copy a capture, drag it where you need it or pin it, all from the corner. Earlier captures stay in your history.
 
-## Get it
+### OCR and cutout
+Kadr includes OCR and cutout tools.
 
-Kadr is $9.99 as a one-time purchase. You can [buy Kadr](https://api.getkadr.app/buy) or [download it for Mac](https://api.getkadr.app/download/latest/mac). The download is signed.
+## Download
+
+Kadr is a $9.99 one-time purchase, available at [getkadr.app](https://getkadr.app). It needs an Apple silicon Mac running macOS 13 or later. The download is signed.
 
 ## Questions
 
-### Is Kadr a subscription?
+### How much does Kadr cost?
+Kadr costs $9.99, paid once.
 
-No. Kadr is a one-time purchase at $9.99.
+### Which Macs does Kadr run on?
+Kadr runs on Apple silicon Macs with macOS 13 or later.
 
-### Does Kadr run on my Mac?
-
-It runs on Apple silicon Macs with macOS 13 or later.
-
-### Does Kadr upload my screenshots?
-
+### Does Kadr upload my captures?
 No. Kadr has no cloud upload.
 
-### Can Kadr record the screen as well as take screenshots?
+## Feedback
 
-Yes. Kadr records the screen, you stop the recording from the menu bar, and the output is GIF or video.
+I want to hear about bugs and missing features. [Report a bug or ask for a feature](https://github.com/deeflect/kadr/issues) on GitHub, and include the app version, the system version and the steps that lead to the bug. I read every issue.
 
 ## Made by
 
